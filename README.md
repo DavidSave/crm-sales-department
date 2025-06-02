@@ -1,3 +1,1 @@
-# CRM Sales Department
-
-CRM-система для отдела продаж.
+# crm-sales-department
